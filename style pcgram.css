@@ -1,0 +1,102 @@
+
+.descuento_grilla 
+{
+    display: table;
+ /*position: absolute;*/
+    top: 7px;
+    left: 7px;
+    font-size: 12px;
+    background-color: #53c8fd;
+    padding: 5px 8px;
+    font-weight: 600;
+    width: 30px;
+    text-align: center;
+    color: #fff;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 15px;
+}
+
+.marca_grilla
+{
+    font-size: 13px;
+    color: #94a2b4;
+    /*margin: 5px 0;*/
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.nombre_producto_grilla
+{
+    display: table-cell;
+    /*margin: 5px 10px;*/
+ /* height: 34px;*/
+    line-height: 17px;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: 0;
+    width: 100%;
+    text-decoration: none;
+    color: #4a5a6d;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin: 0
+}
+
+.precio_grilla
+{    
+    font-size: 16px;
+    color: #4a5a6d;
+ /*   margin: 5px 0;*/
+}
+
+.enlacesheader
+{
+    /*display: table-cell*/;
+    /*margin: 5px 10px;*/
+    /* height: 34px;*/
+    line-height: 17px;
+    /*vertical-align: middle;*/
+    font-size: 16px;
+    font-weight: 500;
+    width: 100%;
+    text-decoration: none;
+    color: #1c1f23;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin: 0   
+}
+
+.enlacesgrandes
+{
+    /*display: table-cell*/;
+    /*margin: 5px 10px;*/
+    /* height: 34px;*/
+    line-height: 17px;
+    /*vertical-align: middle;*/
+    font-size: 20px;
+    font-weight: 700;
+    width: 100%;
+    text-decoration: none;
+    color: #1c1f23;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin: 0   
+}
+
+.enlaces
+{
+    /*display: table-cell*/;
+    /*margin: 5px 10px;*/
+    /* height: 34px;*/
+    line-height: 17px;
+    /*vertical-align: middle;*/
+    font-size: 16px;
+    font-weight: 0;
+    width: 100%;
+    text-decoration: none;
+    color: #1c1f23;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin: 0   
+}
